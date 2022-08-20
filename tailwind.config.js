@@ -9,9 +9,8 @@ module.exports = {
   theme: {
     extend: {
 screens: {
-  '3xl': '2000'
-}
-      
+  "3xl": "2160px",
+      },  
     },
   },
   plugins: [
